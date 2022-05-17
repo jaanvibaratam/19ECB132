@@ -11,3 +11,4 @@ https://github.com/jaanvibaratam/19ECB132/blob/main/helloworld.c
 https://github.com/jaanvibaratam/19ECB132/blob/main/c%20lang%20files.c
 https://github.com/jaanvibaratam/19ECB132/blob/main/binaryytree.c
 https://github.com/jaanvibaratam/19ECB132/blob/main/binarysearch%20tree.c
+https://github.com/jaanvibaratam/19ECB132/blob/main/threadedbinarysearch.c
