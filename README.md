@@ -5,3 +5,4 @@ https://github.com/jaanvibaratam/19ECB132/blob/main/DOUBLE%20LINKED%20LIST.c
 https://github.com/jaanvibaratam/19ECB132/blob/main/logical%20opr.c
 https://github.com/jaanvibaratam/19ECB132/blob/main/linkedlists.c
 https://github.com/jaanvibaratam/19ECB132/blob/main/linear%20data%20structures.c
+https://github.com/jaanvibaratam/19ECB132/blob/main/lettercount.c
