@@ -9,3 +9,4 @@ https://github.com/jaanvibaratam/19ECB132/blob/main/lettercount.c
 https://github.com/jaanvibaratam/19ECB132/blob/main/insertion.c
 https://github.com/jaanvibaratam/19ECB132/blob/main/helloworld.c
 https://github.com/jaanvibaratam/19ECB132/blob/main/c%20lang%20files.c
+https://github.com/jaanvibaratam/19ECB132/blob/main/binaryytree.c
