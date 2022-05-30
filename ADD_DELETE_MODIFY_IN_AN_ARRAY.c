@@ -77,3 +77,15 @@ int main()
     }
     return 0;
 }
+/* output
+Enter size of array 
+3
+Enter 1 element
+1
+Enter 2 element
+2
+Enter 3 element 
+3
+Enter i to insert/ d to delete
+2
+Wrong choice */
