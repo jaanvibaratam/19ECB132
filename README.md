@@ -1,5 +1,5 @@
 # 19ECB132
-#index
+# INDEX   
 [adddeletemodify in single linked list.c](ADD%20DELETE%20%20MODIFY%20IN%20SINGLE%20LINKED%20LIST.c)    
 [adddeletemodify in an array.c](ADD%20DELETE%20MODIFY%20IN%20AN%20ARRAY.c)   
 [doublelinkedlist.c](DOUBLE%20LINKED%20LIST.c)   
