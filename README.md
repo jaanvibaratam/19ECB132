@@ -13,3 +13,4 @@
 [binarytree.c](binaryytree.c)   
 [binarysearchtree.c](binarysearch%20tree.c)   
 [treadedbinarysearch.c](threadedbinarysearch.c)   
+[A.OUT](a.out)
