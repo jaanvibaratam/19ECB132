@@ -14,5 +14,6 @@
 [binarysearchtree.c](binarysearch%20tree.c)   
 [treadedbinarysearch.c](threadedbinarysearch.c)   
 [position.c](position.c)    
-[lenghtofstring.c](lenghtofstring.c)
+[lenghtofstring.c](lenghtofstring.c)    
+[avltree.c](avltree.c)
 
